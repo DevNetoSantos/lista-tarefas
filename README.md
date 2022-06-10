@@ -1,1 +1,3 @@
 # lista-tarefas
+
+PROJETO FEITO PARA ESTUDOS.

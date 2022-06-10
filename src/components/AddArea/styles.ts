@@ -19,5 +19,6 @@ export const Container = styled.div`
         outline: 0;
         font-size: 18px;
         flex: 1;
+        color: #FFF;
     }
 `;
