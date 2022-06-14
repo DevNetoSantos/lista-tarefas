@@ -1,4 +1,4 @@
-# lista-tarefas
+# lista-tarefas-Reactjs
 
 PROJETO FEITO PARA ESTUDOS.
 
